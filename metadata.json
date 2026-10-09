@@ -1,0 +1,6 @@
+{
+  "name": "Permata Engine - Enterprise Communication Hub",
+  "description": "Enterprise micro-frontend communication platform for PermataBank managing WhatsApp HSM templates, mobile push notifications, SMS SMPP gateways, and cross-engine telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
